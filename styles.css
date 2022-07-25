@@ -13,3 +13,7 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.fs{
+    width: 100%;
+}
